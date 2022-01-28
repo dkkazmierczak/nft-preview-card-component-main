@@ -15,7 +15,7 @@ const App = () => {
         <div className="wrapper">
           <div className="image-wrapper">
             <img src={view} alt="view-icon" className="view-icon" />
-            <img src={equilibrium} alt="equilibrium-image" className="image" />
+            <img src={equilibrium} alt="equilibrium" className="image" />
           </div>
 
           <h1>Equilibrium #3429</h1>
