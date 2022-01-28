@@ -14,8 +14,13 @@ const App = () => {
       <div className="container">
         <div className="wrapper">
           <div className="image-wrapper">
-            <img src={view} alt="view-icon" className="view-icon" />
             <img src={equilibrium} alt="equilibrium" className="image" />
+            <img
+              src={view}
+              alt="view-icon"
+              className="view-icon"
+              id="show-view-icon"
+            />
           </div>
 
           <h1>Equilibrium #3429</h1>
